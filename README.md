@@ -1,6 +1,5 @@
-Soccer Rank Calculator
-----
-##### C# command line application that calculates the rankings for a soccer tournament
+#Soccer Rank Calculator 
+######C# command line application that calculates the rankings for a soccer tournament
 ----
 
 ### **Scoring**

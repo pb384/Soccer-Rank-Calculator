@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerRankCalculator", "SoccerRankCalculator.csproj", "{4EA9AB67-CB20-4FB9-AAC5-159F4554166E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerRankCalculatorTest", "..\SoccerRankCalculatorTest\SoccerRankCalculatorTest.csproj", "{E06A9601-4AAA-4872-BDBE-395C9AE09D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA9AB67-CB20-4FB9-AAC5-159F4554166E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA9AB67-CB20-4FB9-AAC5-159F4554166E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA9AB67-CB20-4FB9-AAC5-159F4554166E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA9AB67-CB20-4FB9-AAC5-159F4554166E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06A9601-4AAA-4872-BDBE-395C9AE09D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06A9601-4AAA-4872-BDBE-395C9AE09D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06A9601-4AAA-4872-BDBE-395C9AE09D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06A9601-4AAA-4872-BDBE-395C9AE09D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3736A4-7806-43EC-AFE1-5D8B1A0B30E7}
+	EndGlobalSection
+EndGlobal
