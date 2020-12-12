@@ -1,0 +1,12 @@
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRankCalculator\bin\Debug\SoccerRankCalculator.exe.config
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRankCalculator\bin\Debug\SoccerRankCalculator.exe
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRankCalculator\bin\Debug\SoccerRankCalculator.pdb
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRankCalculator\obj\Debug\SoccerRankCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRankCalculator\obj\Debug\SoccerRankCalculator.exe
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRankCalculator\obj\Debug\SoccerRankCalculator.pdb
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRank\SoccerRankCalculator\bin\Debug\SoccerRankCalculator.exe.config
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRank\SoccerRankCalculator\bin\Debug\SoccerRankCalculator.exe
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRank\SoccerRankCalculator\bin\Debug\SoccerRankCalculator.pdb
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRank\SoccerRankCalculator\obj\Debug\SoccerRankCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRank\SoccerRankCalculator\obj\Debug\SoccerRankCalculator.exe
+C:\Users\pboddupally.USFSCO\Desktop\SoccerRank\SoccerRankCalculator\obj\Debug\SoccerRankCalculator.pdb
