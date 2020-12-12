@@ -39,7 +39,7 @@
 
 ##### **Instructions**:
 
-* SoccerRankCalculator.exe and input file *[2015-Matches.txt]* are located bin/Debug Folder
+* SoccerRankCalculator.exe and input file *[2015-Matches.txt]* are located [/bin/Debug](https://github.com/pb384/Soccer-Rank-Calculator/blob/main/bin/Debug) Folder
 * Please have SoccerRankCalculator.exe and input file *[2015-Matches.txt]* in one folder
 * Run .exe file followed by input file in Command Prompt
 * Application generates output file *[2015-Ranking.txt]* with results
